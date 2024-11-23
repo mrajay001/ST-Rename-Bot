@@ -44,9 +44,9 @@ from plugins import __version__ as _bot_version_, __developer__, __database__, _
 
 upgrade_button = InlineKeyboardMarkup([[        
         InlineKeyboardButton('buy premium ✓', user_id=int(6705898491)),
-         ],[
-        InlineKeyboardButton("Bᴀᴄᴋ", callback_data = "start")
-]])
+         ],
+        
+])
 
 upgrade_trial_button = InlineKeyboardMarkup([[        
         InlineKeyboardButton('buy premium ✓', user_id=int(6705898491)),
