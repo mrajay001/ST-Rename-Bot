@@ -25,7 +25,7 @@ Repo Link : https://github.com/DigitalBotz/Digital-Rename-Bot
 License Link : https://github.com/DigitalBotz/Digital-Rename-Bot/blob/main/LICENSE
 """
 
-__name__ = "Digital-Rename-Bot"
+__name__ = "File Renamer"
 __version__ = "3.0.7"
 __license__ = " Apache License, Version 2.0"
 __copyright__ = "Copyright (C) 2022-present Digital Botz <https://github.com/DigitalBotz>"
@@ -33,8 +33,8 @@ __programer__ = "<a href=https://github.com/DigitalBotz/Digital-Rename-Bot>Digit
 __library__ = "<a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>"
 __language__ = "<a href=https://www.python.org/>Pyᴛʜᴏɴ 3</a>"
 __database__ = "<a href=https://cloud.mongodb.com/>Mᴏɴɢᴏ DB</a>"
-__developer__ = "<a href=https://t.me/Digital_Botz>Digital Botz</a>"
-__maindeveloper__ = "<a href=https://t.me/RknDeveloper>RknDeveloper</a>"
+__developer__ = "<a href=https://t.me/Sitaratoons_Support</a>"
+__maindeveloper__ = "<a href=https://t.me/Sitaratoons_Support</a>"
 
 # main copyright herders (©️)
 # I have been working on this repo since 2022
