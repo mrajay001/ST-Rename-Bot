@@ -57,7 +57,7 @@ upgrade_trial_button = InlineKeyboardMarkup([[
 
 start_button = InlineKeyboardMarkup([[        
         InlineKeyboardButton('Uᴩᴅᴀ𝚃ᴇꜱ', url='https://t.me/sitaratoons'),
-        InlineKeyboardButton('Sᴜᴩᴩᴏʀ𝚃', url='https://t.me/DigitalBotz_Support')
+        InlineKeyboardButton('Sᴜᴩᴩᴏʀ𝚃', url='https://t.me/+7SM8FSc6LHRmMzZl')
         ],[
         InlineKeyboardButton('Aʙᴏυᴛ', callback_data='about'),
         InlineKeyboardButton('Hᴇʟᴩ', callback_data='help')
