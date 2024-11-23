@@ -172,10 +172,10 @@ Exᴀᴍᴩʟᴇ:- `/set_prefix @sitaratoons_support`
     # ᴡʜᴏᴇᴠᴇʀ ɪs ᴅᴇᴘʟᴏʏɪɴɢ ᴛʜɪs ʀᴇᴘᴏ ɪs ᴡᴀʀɴᴇᴅ ⚠️ ᴅᴏ ɴᴏᴛ ʀᴇᴍᴏᴠᴇ ᴄʀᴇᴅɪᴛs ɢɪᴠᴇɴ ɪɴ ᴛʜɪs ʀᴇᴘᴏ #ғɪʀsᴛ ᴀɴᴅ ʟᴀsᴛ ᴡᴀʀɴɪɴɢ ⚠️
     DEV_TXT = """<b><u>Join More Channels</b></u>
     
-» ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href=https://t.me/+7SM8FSc6LHRmMzZl>Digital-Rename-Bot</a>
+» ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href=https://t.me/+7SM8FSc6LHRmMzZl>☠️File-Renamer-Bot</a>
 
 • ❣️ <a href=https://t.me/Anime_Backup_ST>🍁Hindi dub Anime</a>
-• ❣️ <a href=https://t.me/+Zutr-hfuNeFhNWM9>Anime Movie</a>
+• ❣️ <a href=https://t.me/+Zutr-hfuNeFhNWM9>⚡Anime Movie</a>
 • ❣️ <a href=https://t.me/+Lue7ExXUBak1NDhl>🔞ʜᴇɴᴛᴀɪ</a> """
     # ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
 
